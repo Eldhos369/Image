@@ -1,0 +1,11 @@
+C:\Users\Student\source\repos\exp123\exp123\bin\Debug\exp123.exe.config
+C:\Users\Student\source\repos\exp123\exp123\bin\Debug\exp123.exe
+C:\Users\Student\source\repos\exp123\exp123\bin\Debug\exp123.pdb
+C:\Users\Student\source\repos\exp123\exp123\obj\Debug\exp123.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\exp123\exp123\obj\Debug\exp123.Form1.resources
+C:\Users\Student\source\repos\exp123\exp123\obj\Debug\exp123.Properties.Resources.resources
+C:\Users\Student\source\repos\exp123\exp123\obj\Debug\exp123.reg.resources
+C:\Users\Student\source\repos\exp123\exp123\obj\Debug\exp123.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\exp123\exp123\obj\Debug\exp123.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\exp123\exp123\obj\Debug\exp123.exe
+C:\Users\Student\source\repos\exp123\exp123\obj\Debug\exp123.pdb
